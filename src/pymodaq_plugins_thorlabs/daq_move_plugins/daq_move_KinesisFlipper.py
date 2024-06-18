@@ -11,7 +11,7 @@ class DAQ_Move_KinesisFlipper(DAQ_Move_base):
 
     """
     _controller_units = 'degrees'
-    _epsilon = 0.05
+    _epsilon = 0.10
 
     is_multiaxes = False
 
